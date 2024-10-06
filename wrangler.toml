@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "wrangle-ai"
+name = "divine-voice-e262"
 main = "src/index.ts"
 compatibility_date = "<TBD>"
 compatibility_flags = ["nodejs_compat"]
